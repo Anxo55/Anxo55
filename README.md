@@ -17,10 +17,6 @@
   <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="Java Logo" width="90" height="90">
   <img src="https://pngimg.com/uploads/php/php_PNG43.png" alt="Java Logo" width="90" height="90">
   <img src="https://s28309.pcdn.co/wp-content/themes/321-web-marketing/assets/images/mysql-logo-256.png" alt="Java Logo" width="90" height="90">
-  
-  
-  
-  <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" alt="Java Logo" width="140" height="90">
   <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/93/formation-git-avance.png" alt="Java Logo" width="90" height="90">
   
 </div>
