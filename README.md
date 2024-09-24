@@ -4,7 +4,7 @@
 
 - 🚀 I’m currently working on https://anxo55.github.io/Camisetas-deportivas/
 - 🔭 I’m currently studying on CPR Cebem
-- 🔥 I’m currently learning Java, PHP, Html, CSS, SQl, Spring-boot
+- 🔥 I’m currently learning JavaScript, nodeJs, Android, SQl
 #
 
 ## Languages and Tools
