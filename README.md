@@ -27,9 +27,6 @@
 <a href="https://www.linkedin.com/in/anxo-campos-b6878a265/" target="_blank">
     <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="Java Logo" width="50" height="50">
   </a>
-  <a href="https://github.com/Anxo55" target="_blank">
-    <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" alt="Java Logo" width="90" height="60">
-  </a>
   <a href="https://www.instagram.com/anxocampoos_/" target="_blank">
     <img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" alt="Java Logo" width="50" height="50">
   </a>
