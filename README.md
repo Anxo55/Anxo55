@@ -9,18 +9,7 @@
 
 ## Languages and Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-2.png" alt="Java Logo" width="50" height="80">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"alt="Java Logo" width="80" height="80">
-  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="Java Logo" width="130" height="60">
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png"alt="Java Logo" width="110" height="90">
-  <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="Java Logo" width="80" height="80">
-  <img src="https://static.vecteezy.com/system/resources/previews/022/100/945/original/java-logo-transparent-free-png.png" alt="Java Logo" width="80" height="80">
-  <img src="https://pngimg.com/uploads/php/php_PNG43.png" alt="Java Logo" width="80" height="80">
-  <img src="https://s28309.pcdn.co/wp-content/themes/321-web-marketing/assets/images/mysql-logo-256.png" alt="Java Logo" width="80" height="80">
-  <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/93/formation-git-avance.png" alt="Java Logo" width="80" height="80">
-  
-</div>
+[![JavaScript,HTML,CSS,Django,MySql,Selenium](https://skillicons.dev/icons?i=js,html,css,django,mysql,selenium)](https://skillicons.dev)
 
 ## Contact
 
