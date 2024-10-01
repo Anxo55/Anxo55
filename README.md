@@ -9,10 +9,10 @@
 
 ## Languages and Tools
 
-[![JavaScript](https://skillicons.dev/icons?i=js,html,css,django,mysql,selenium)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=js,html,css,django,mysql,selenium)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=js,html,css,django,mysql,selenium)](https://skillicons.dev)
-[![MySql](https://skillicons.dev/icons?i=js,html,css,django,mysql,selenium)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![MySql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 
 ## Contact
