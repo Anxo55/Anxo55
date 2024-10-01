@@ -12,6 +12,8 @@
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![MySql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 
