@@ -14,6 +14,7 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 [![MySql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 
