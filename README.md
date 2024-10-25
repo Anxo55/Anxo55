@@ -4,7 +4,7 @@
 
 - 🚀 I’m currently working on [Todo-list](https://anxo55.github.io/Todo-list/)
 - 🔭 I’m currently studying on CPR Cebem
-- 🔥 I’m currently learning JavaScript, nodeJs, Android, SQl, Docker
+- 🔥 I’m currently learning JavaScript, nodeJs, Android, SQl, Docker, Astro
 #
 
 ## Languages and Tools
@@ -17,6 +17,7 @@
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 [![MySql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
 
 
 ## Contact
