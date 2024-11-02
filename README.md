@@ -1,4 +1,5 @@
 ## Hi there 👋, i'm Anxo
+[![An image of @anxo55's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anxo55)](https://holopin.io/@anxo55)
 
 ### Multiplatform Application Development Student
 
