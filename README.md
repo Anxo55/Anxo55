@@ -5,7 +5,7 @@
 
 - 🚀 I’m currently working on [Todo-list](https://anxo55.github.io/Todo-list/)
 - 🔭 I’m currently studying on CPR Cebem
-- 🔥 I’m currently learning JavaScript, nodeJs, Android, SQl, Docker, Astro
+- 🔥 I’m currently learning JavaScript, nodeJs, Android, SQl, Docker, Astro, Python, TypeScript, React, TailWindCss
 #
 
 ## Languages and Tools
