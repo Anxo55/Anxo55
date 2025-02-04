@@ -8,7 +8,7 @@
 - 🔥 I’m currently learning JavaScript, nodeJs, Android, SQl, Docker, Astro, Python, TypeScript, React, TailWindCss
 #
 
-## Languages and Tools
+## Languages 
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
@@ -20,6 +20,9 @@
 [![MySql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
 
+## Tools
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 ## Contact
 
