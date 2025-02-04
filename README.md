@@ -13,8 +13,6 @@
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 [![MySql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
@@ -27,6 +25,10 @@
 ## Tools
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+
+
 
 ## Contact
 
