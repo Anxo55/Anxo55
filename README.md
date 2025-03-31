@@ -15,6 +15,7 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![MySql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
