@@ -17,11 +17,16 @@
 [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![MySql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 [![NodeJs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![Tailwindcss](https://skillicons.dev/icons?i=tailwindcss)](https://skillicons.dev)
+
+## Frameworks
+
+[![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Odoo](https://skillicons.dev/icons?i=odoo)](https://skillicons.dev)
+
 
 ## Tools
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
