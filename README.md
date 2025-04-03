@@ -5,7 +5,7 @@
 
 - 🚀 I’m currently working on [Portfolio](https://portfolio-personal-astro.vercel.app/)
 - 🔭 I’m currently studying on CPR Cebem
-- 🔥 I’m currently learning JavaScript, nodeJs, Android, SQl, Docker, Astro, Python, TypeScript, React, TailWindCss
+- 🔥 I’m currently learning Angular, nodeJs, Android, Docker, Astro, Python, TypeScript, Spring-boot
 #
 
 ## Languages 
