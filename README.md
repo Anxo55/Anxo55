@@ -25,7 +25,7 @@
 
 [![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Odoo](https://skillicons.dev/icons?i=odoo)](https://skillicons.dev)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 
 
 ## Tools
