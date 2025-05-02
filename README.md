@@ -26,6 +26,7 @@
 [![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 
 
 ## Tools
